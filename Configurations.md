@@ -1,8 +1,8 @@
 ## CONFIGURATIONS
 
-### For Refences Only
+### For References Only
 
-Below are the properties files of all services stored in the local git config repo used by ** Spring Cloud Config Server**.
+Due to the inaccessability of the properties files stored in the local git config repo used by **Spring Cloud Config Server**, they are listed below for references.
 
 - limits-service.properties
 ```properties
