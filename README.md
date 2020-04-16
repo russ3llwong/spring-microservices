@@ -22,7 +22,7 @@ In-memory databse to store data.
 
 - **Spring Cloud Config Server**
 
-Stores configurations of services.
+Stores configurations of services. Please refer to **Configurations.MD** for references.
 
 - **Feign REST Client**
 
